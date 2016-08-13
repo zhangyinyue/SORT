@@ -9,7 +9,7 @@ package com.zyy.test;
 public class MergeSortTest {
 
 	public static void main(String[] args) {
-		System.out.println("");
+		System.out.println("zhang");
 	}
 	
 }
